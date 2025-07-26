@@ -44,11 +44,11 @@
 </p>
 
 
-## 📚 Most Used Languages
+<!-- ## 📚 Most Used Languages
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=De-Coder-10&layout=compact&theme=tokyonight" />
-</p>
+</p>  -->
 
 ## 🌐 Connect With Me
 
