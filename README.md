@@ -93,13 +93,9 @@ fun_fact: "Tech is magic when used right 🧠✨"
 
 ## 📊 GitHub Stats
 
-<!-- <p align="center">
+<p align="center">
 <img height="165" src="https://github-readme-stats-rickstaa.vercel.app/api?username=De-Coder-10&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 <img height="165" src="https://github-readme-stats-rickstaa.vercel.app/api/top-langs/?username=De-Coder-10&layout=compact&theme=tokyonight&hide_border=true" />
-</p> -->
-
-<p align="center">
-<img src="https://github.com/De-Coder-10/De-Coder-10/blob/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D GitHub Contributions" />
 </p>
 
 <!-- <p align="center">
@@ -116,7 +112,7 @@ fun_fact: "Tech is magic when used right 🧠✨"
 </p> -->
 
 <p align="center">
-<img src="https://github.com/De-Coder-10/De-Coder-10/blob/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D GitHub Contributions" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=De-Coder-10&theme=tokyo-night&hide_border=true" />
 </p>
 
 <br/>
@@ -130,4 +126,3 @@ fun_fact: "Tech is magic when used right 🧠✨"
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:0ea5e9&height=200&section=footer" />
-
