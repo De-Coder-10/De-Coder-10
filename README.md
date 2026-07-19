@@ -116,7 +116,7 @@ fun_fact: "Tech is magic when used right 🧠✨"
 </p> -->
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=De-Coder-10&theme=tokyo-night&hide_border=true" />
+<img src="https://github.com/De-Coder-10/De-Coder-10/blob/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D GitHub Contributions" />
 </p>
 
 <br/>
